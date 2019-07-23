@@ -44,5 +44,5 @@ Sivanandam, S. N.; Deepa, S. N. (2007): Introduction to genetic algorithms. Berl
  5. Elitism: The best solution of each generation is saved.
  
  # 4 Results
- Results are stored in LogFIles
+ Results are stored in LogFIles with the name as time of the execution.
  
