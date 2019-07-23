@@ -10,7 +10,7 @@ If the user selects the option, that the initial population of the Genetic Algor
 
 # 2.  Installing the requirements
 In shell:
-⋅⋅* change directory to the directory where requirements.txt is located
-⋅⋅* create a virtual environment
-⋅⋅* activate the virtualenv
-⋅⋅* for installing the required packages run:  pip install -r requirements.txt in the shell
+⋅⋅*   change directory to the directory where requirements.txt is located
+⋅⋅*   create a virtual environment
+⋅⋅*   activate the virtualenv
+⋅⋅*   for installing the required packages run:  pip install -r requirements.txt in the shell
