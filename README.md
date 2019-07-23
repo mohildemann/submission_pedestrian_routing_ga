@@ -1,6 +1,6 @@
 # Submission of the routing implementation with Genetic Algorithms
 # 1.  Downloading the files
-Short description: 
+Short description of the content
 ## 1.1.  Code  
 The code for running the Genetic Algorithm is contained in baseline_pedestrian_routing.
 ## 1.2.    Network
@@ -22,7 +22,7 @@ Parameters in main_pedestrian_routing:
 first parameter is search_space_definition. Can be "distance_only", "local_score", "combined_score" or "global_score"
 second parameter is the population size
 third parameter is the choice, if a random initialization for the initital population shall be done or if one will be used that was saved as a pickle file and loaded. Default value is False, as it is much faster. Set it to True, if the random initialization shall be executed.
-These parameters are only for the convenience of the user.
+These parameters are only for the convenience of the user and the set parameters are just examples.
 
 Parameters in route specific main (like in main_pedestrian_route1):
 population_size = size of the total population
