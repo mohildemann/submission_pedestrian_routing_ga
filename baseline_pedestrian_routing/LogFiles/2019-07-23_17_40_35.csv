@@ -1,0 +1,1 @@
+2019-07-23 19:40:35,415,2019-07-23_17_40_35,INFO,<class 'baseline_pedestrian_routing.problems.network.Network'>,332512072,baseline_pedestrian_routing.algorithms.genetic_algorithm,20,tournament_selection,one_point_crossover,0.4,bit_flip,0.6
